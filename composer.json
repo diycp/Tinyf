@@ -1,0 +1,14 @@
+{
+	"require": {
+
+	},
+	"autoload": {
+		"files": ["vendor/Tinyf/functions.php"],
+		"psr-4": {
+			"App\\": "app/"
+		},
+		"classmap": [
+			"vendor/Tinyf","vendor/Tinyf/App.php"
+		]
+	}
+}

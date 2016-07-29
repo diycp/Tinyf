@@ -1,0 +1,11 @@
+/.git
+/.svn
+/vendor/*
+!/vendor/tinyf/
+/public/.htaccess
+/storage/cache/*
+!/storage/cache/keep
+/storage/error/*
+!/storage/error/keep
+/storage/view/*
+!/storage/view/keep
